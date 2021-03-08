@@ -47,3 +47,8 @@ Walmart
 Young Life Pharmacy
 
 - https://form.jotform.com/210524045029142 will let you submit a partially filled out form
+
+Clayton County: https://www.claytoncountypublichealth.org/
+Cobb/Douglas County: https://www.cobbanddouglaspublichealth.com/covid-vaccine-appointments/
+DeKalb County: https://www.dekalbhealth.net/covid-19-vaccine/
+Fulton County: https://fultoncountyga.gov/covidvaccine
