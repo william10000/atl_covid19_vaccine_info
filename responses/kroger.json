@@ -1,0 +1,1247 @@
+[
+  {
+    "loc_id": 716,
+    "loc_no": "01100259",
+    "facilityDetails": {
+      "facilityId": "01100259",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Fresh Fare",
+      "address": {
+        "address1": "3330 Piedmont Rd NE",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30305"
+      },
+      "distance": 6.769218222150186,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "2339484",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 721,
+    "loc_no": "01100298",
+    "facilityDetails": {
+      "facilityId": "01100298",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Ansley Mall",
+      "address": {
+        "address1": "1700 Monroe Drive NE",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30324"
+      },
+      "distance": 3.7456602004164683,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "8720785",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 722,
+    "loc_no": "01100303",
+    "facilityDetails": {
+      "facilityId": "01100303",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Belevedere Citi-Center",
+      "address": {
+        "address1": "3479 Memorial Drive",
+        "address2": "",
+        "city": "Decatur",
+        "state": "GA",
+        "zipCode": "30032"
+      },
+      "distance": 7.021774076257967,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "2865788",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 725,
+    "loc_no": "01100318",
+    "facilityDetails": {
+      "facilityId": "01100318",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Toco Hills",
+      "address": {
+        "address1": "2205 Lavista Rd NE",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30329"
+      },
+      "distance": 6.430329585737995,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "6334201",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 734,
+    "loc_no": "01100346",
+    "facilityDetails": {
+      "facilityId": "01100346",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Howell Mill Square",
+      "address": {
+        "address1": "1715 Howell Mill Rd NW",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30318"
+      },
+      "distance": 3.8733709474960216,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "3557889",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 741,
+    "loc_no": "01100364",
+    "facilityDetails": {
+      "facilityId": "01100364",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Metropolitan Citi-Center",
+      "address": {
+        "address1": "2685 Metropolitan Pkwy SW",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30315"
+      },
+      "distance": 4.660040499758231,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "2096638",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "20:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "20:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "20:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "20:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "20:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 765,
+    "loc_no": "01100412",
+    "facilityDetails": {
+      "facilityId": "01100412",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Cascade-Citi Center",
+      "address": {
+        "address1": "590 Cascade Ave SW",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30310"
+      },
+      "distance": 2.5082594034640606,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "7561144",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 806,
+    "loc_no": "01100459",
+    "facilityDetails": {
+      "facilityId": "01100459",
+      "legalName": "The Kroger Co.",
+      "vanityName": "North Decatur",
+      "address": {
+        "address1": "2875 N Decatur Rd",
+        "address2": "",
+        "city": "Decatur",
+        "state": "GA",
+        "zipCode": "30033"
+      },
+      "distance": 7.414499850571031,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "2948211",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "20:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "20:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "20:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "20:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "20:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 808,
+    "loc_no": "01100461",
+    "facilityDetails": {
+      "facilityId": "01100461",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Edgewood",
+      "address": {
+        "address1": "1225 Caroline St NE",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30307"
+      },
+      "distance": 2.5505521823917996,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "8804109",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "20:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "20:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "20:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "20:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "20:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 809,
+    "loc_no": "01100462",
+    "facilityDetails": {
+      "facilityId": "01100462",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Greenbriar Crossing",
+      "address": {
+        "address1": "3030 Headland Dr SW",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30311"
+      },
+      "distance": 6.981289425588001,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "3445383",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 812,
+    "loc_no": "01100465",
+    "facilityDetails": {
+      "facilityId": "01100465",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Cascade Corners",
+      "address": {
+        "address1": "3425 Cascade Rd SW",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30311"
+      },
+      "distance": 6.403004953476809,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "5057802",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 828,
+    "loc_no": "01100488",
+    "facilityDetails": {
+      "facilityId": "01100488",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Ripplewater Village",
+      "address": {
+        "address1": "1160 Moreland Ave SE",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30316"
+      },
+      "distance": 3.094544441205576,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "6248115",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 845,
+    "loc_no": "01100626",
+    "facilityDetails": {
+      "facilityId": "01100626",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Lindberg",
+      "address": {
+        "address1": "2452 Morosgo Way",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30324"
+      },
+      "distance": 5.334873749249892,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "404",
+        "phoneNumber": "9460450",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 864,
+    "loc_no": "01100672",
+    "facilityDetails": {
+      "facilityId": "01100672",
+      "legalName": "The Kroger Co.",
+      "vanityName": "672 Kroger Marketplace",
+      "address": {
+        "address1": "800 Glenwood Avenue, SE",
+        "address2": "",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30316"
+      },
+      "distance": 1.8777684899720943,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "470",
+        "phoneNumber": "4475040",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "10:00",
+        "sundayHours": "",
+        "mondayClose": "20:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "20:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "20:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "20:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "20:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "08:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  },
+  {
+    "loc_id": 876,
+    "loc_no": "01100695",
+    "facilityDetails": {
+      "facilityId": "01100695",
+      "legalName": "The Kroger Co.",
+      "vanityName": "Kroger Atlanta",
+      "address": {
+        "address1": "725 Ponce de Leon Ave NE",
+        "address2": "Suite 100",
+        "city": "Atlanta",
+        "state": "GA",
+        "zipCode": "30306"
+      },
+      "distance": 2.385429944830024,
+      "phone": {
+        "countryCode": "",
+        "areaCode": "470",
+        "phoneNumber": "3514230",
+        "extension": ""
+      },
+      "onlinePaymentsEnabled": true,
+      "onlineOrderingEnabled": false,
+      "pharmacyHours": {
+        "sundayClose": "18:00",
+        "sundayOpen": "11:00",
+        "sundayHours": "",
+        "mondayClose": "19:00",
+        "mondayOpen": "08:00",
+        "mondayHours": "",
+        "tuesdayClose": "19:00",
+        "tuesdayOpen": "08:00",
+        "tuesdayHours": "",
+        "wednesdayClose": "19:00",
+        "wednesdayOpen": "08:00",
+        "wednesdayHours": "",
+        "thursdayClose": "19:00",
+        "thursdayOpen": "08:00",
+        "thursdayHours": "",
+        "fridayClose": "19:00",
+        "fridayOpen": "08:00",
+        "fridayHours": "",
+        "saturdayClose": "18:00",
+        "saturdayOpen": "09:00",
+        "saturdayHours": ""
+      },
+      "brand": "KROGER"
+    },
+    "dates": [
+      {
+        "date": "2021-03-07",
+        "slots": []
+      },
+      {
+        "date": "2021-03-08",
+        "slots": []
+      },
+      {
+        "date": "2021-03-09",
+        "slots": []
+      },
+      {
+        "date": "2021-03-10",
+        "slots": []
+      },
+      {
+        "date": "2021-03-11",
+        "slots": []
+      },
+      {
+        "date": "2021-03-12",
+        "slots": []
+      },
+      {
+        "date": "2021-03-13",
+        "slots": []
+      },
+      {
+        "date": "2021-03-14",
+        "slots": []
+      }
+    ]
+  }
+]

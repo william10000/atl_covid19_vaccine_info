@@ -1,0 +1,42 @@
+Barrow|Fully Booked (Completamente reservadas)
+Bartow|Fully Booked (Completamente reservadas)
+Bibb|Fully Booked (Completamente reservadas)
+Bryan|16%
+Camden|84%
+Carroll|None Available
+Catoosa|Fully Booked (Completamente reservadas)
+Chatham|61%
+Cherokee|Fully Booked (Completamente reservadas)
+Clarke|Fully Booked (Completamente reservadas)
+Clayton|Fully Booked (Completamente reservadas)
+Cobb|Fully Booked (Completamente reservadas)
+Colquitt|24%
+Columbia|Fully Booked (Completamente reservadas)
+Coweta|Fully Booked (Completamente reservadas)
+Dawson|Fully Booked (Completamente reservadas)
+DeKalb|Fully Booked (Completamente reservadas)
+Dougherty|9%
+Douglas|Fully Booked (Completamente reservadas)
+Fayette|Fully Booked (Completamente reservadas)
+Floyd|Fully Booked (Completamente reservadas)
+Forsyth|Fully Booked (Completamente reservadas)
+Fulton|Fully Booked (Completamente reservadas)
+Glynn|59%
+Greene|Fully Booked (Completamente reservadas)
+Gwinnett|Fully Booked (Completamente reservadas)
+Hall|Fully Booked (Completamente reservadas)
+Henry|Fully Booked (Completamente reservadas)
+Houston|Less than 1% (menos de 1%)
+Jackson|None Available
+Lee|4%
+Lowndes|69%
+Muscogee|Fully Booked (Completamente reservadas)
+Newton|None Available
+Oconee|Fully Booked (Completamente reservadas)
+Paulding|Fully Booked (Completamente reservadas)
+Richmond|Fully Booked (Completamente reservadas)
+Rockdale|Fully Booked (Completamente reservadas)
+Thomas|30%
+Tift|8%
+Troup|None Available
+Walton|Fully Booked (Completamente reservadas)

@@ -1,0 +1,8 @@
+{
+  "appointmentsAvailable": false,
+  "stateName": "Georgia",
+  "stateCode": "GA",
+  "zipCode": "30334",
+  "radius": 25,
+  "days": 3
+}

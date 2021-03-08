@@ -1,0 +1,46 @@
+{
+  "status": "1",
+  "message": "OK",
+  "data": {
+    "startDate": "03072021",
+    "endDate": "03132021",
+    "accessPointId": "6668f04e-4e8a-46ca-8ea3-0d633fe13211",
+    "slotDays": [
+      {
+        "slotDate": "03072021",
+        "slots": [],
+        "message": "There are no appointments available for this store right now. Please try another store."
+      },
+      {
+        "slotDate": "03082021",
+        "slots": [],
+        "message": "There are no appointments available for this store right now. Please try another store."
+      },
+      {
+        "slotDate": "03092021",
+        "slots": [],
+        "message": "There are no appointments available for this store right now. Please try another store."
+      },
+      {
+        "slotDate": "03102021",
+        "slots": [],
+        "message": "There are no appointments available for this store right now. Please try another store."
+      },
+      {
+        "slotDate": "03112021",
+        "slots": [],
+        "message": "There are no appointments available for this store right now. Please try another store."
+      },
+      {
+        "slotDate": "03122021",
+        "slots": [],
+        "message": "There are no appointments available for this store right now. Please try another store."
+      },
+      {
+        "slotDate": "03132021",
+        "slots": [],
+        "message": "There are no appointments available for this store right now. Please try another store."
+      }
+    ]
+  }
+}
